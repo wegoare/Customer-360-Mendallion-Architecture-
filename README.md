@@ -57,6 +57,11 @@ This project follows a **Bronze → Silver → Gold** architecture:
 - Total spend
 - Lifetime value indicators
 
+### Pipeline includes:
+-<img width="347" height="121" alt="image" src="https://github.com/user-attachments/assets/9765b1bc-9fb2-49c2-ae14-c9cc645e3f14" />
+This can be improved if we use adls gen2 for data storage and pulling the data from there or if you are getting the data from an api 
+
+
 ---
 
 ## 📊 Power BI Dashboard
@@ -72,6 +77,9 @@ The Power BI report provides:
 - Interactive slicers
 - KPI cards
 - Drill-down analytics
+
+- <img width="745" height="361" alt="image" src="https://github.com/user-attachments/assets/3de3dfc1-6142-4a8b-83b9-e06b66173832" />
+
 
 ---
 
