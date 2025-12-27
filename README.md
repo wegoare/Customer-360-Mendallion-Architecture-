@@ -1,4 +1,3 @@
-# Customer-360-Mendallion-Architecture
 # Customer 360 Analytics using Medallion Architecture
 
 ## 📌 Business Problem
@@ -59,7 +58,8 @@ This project follows a **Bronze → Silver → Gold** architecture:
 
 ### Pipeline includes:
 -<img width="347" height="121" alt="image" src="https://github.com/user-attachments/assets/9765b1bc-9fb2-49c2-ae14-c9cc645e3f14" />
-This can be improved if we use adls gen2 for data storage and pulling the data from there or if you are getting the data from an api 
+
+-This can be improved if we use adls gen2 for data storage and pulling the data from there or if you are getting the data from an api 
 
 
 ---
